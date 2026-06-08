@@ -1,23 +1,20 @@
----
-layout: relation
-title: 'dep'
-shortdef: 'unspecified dependency'
-udver: '2'
----
 
-A dependency can be labeled as `dep` when it is impossible to determine a more precise relation.
-This may be because of a weird grammatical construction, or a limitation in conversion or parsing software.
-The use of `dep` should be avoided as much as possible.
+<h1>Welcome to ICT </h1>
 
-~~~ sdparse
-my dad does nt really not that good
-nmod(dad, my)
-nsubj(does, dad)
-advmod(does, nt)
-advmod(does, really)
-dep(does, good)
-advmod(good, not)
-advmod(good, that)
-~~~
+<h2> Full-programming Curriculum</h2>
 
-<!-- Interlanguage links updated St 6. května 2026, 20:46:24 CEST -->
+<p>Learn the skills to become a full-stack developer</p>
+
+
+<h3>Introduction to HTML</h3>
+
+<p>HTML represents the content and structure of a webpage</p>
+
+
+<h3>Introduction to CSS</h3>
+
+<p>CSS is used to style a webpage</p>
+
+<h3>Introduction to JavaScript</h3> 
+
+<p>JavaScript adds interactivity to a webpage</p>
